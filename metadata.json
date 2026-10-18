@@ -1,0 +1,6 @@
+{
+  "name": "FlipAdventure Studio - Perancang Media Ajar Interaktif",
+  "description": "Perancang konsep media ajar interaktif berbasis flipbook gamifikasi bertema petualangan dengan peta misi, rancangan Canva per halaman, dan kuis evaluasi siap pakai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
